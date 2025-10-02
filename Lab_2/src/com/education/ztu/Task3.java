@@ -1,4 +1,3 @@
-// Файл: Task3.java
 package com.education.ztu;
 
 enum Location3  {
@@ -123,10 +122,8 @@ public class Task3 {
     public static void main(String[] args) {
         System.out.println("=== Демонстрація роботи класу Operation ===\n");
 
-        // Тестові дані
         double[] numbers = {10, 5, 3, 7, 2};
 
-        // Демонстрація всіх методів
         System.out.println("Числа для операцій: 10, 5, 3, 7, 2\n");
 
         System.out.println("1. Додавання (addition):");
@@ -150,12 +147,9 @@ public class Task3 {
         System.out.println("\n7. Мінімальне значення (minimum):");
         System.out.println("   Результат: " + Operation3.minimum(numbers));
 
-        // Виведення всіх значень enum Location
         System.out.println("\n\n=== Всі значення enum Location ===\n");
         for (Location3 location : Location3.values()) {
             System.out.println("   Результат: " + Operation3.minimum(numbers));
-
-            // Виведення всіх значень enum Location
             System.out.println("\n\n=== Всі значення enum Location ===\n");
             for (Location location3 : Location.values()) {
                 System.out.println(location);
