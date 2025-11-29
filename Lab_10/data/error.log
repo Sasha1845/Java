@@ -1,0 +1,10 @@
+13:47:07.763 [main] Main2.main [12] FATAL - Fatal message - application might crash
+13:47:07.764 [main] Main2.main [13] ERROR - Error message - something went wrong
+13:57:06.441 [main] Main2.main [12] FATAL - Fatal message - application might crash
+13:57:06.446 [main] Main2.main [13] ERROR - Error message - something went wrong
+15:40:11.117 [main] Main2.main [11] FATAL - Fatal message - application might crash
+15:40:11.119 [main] Main2.main [12] ERROR - Error message - something went wrong
+11:55:38.174 [main] Main2.main [11] FATAL - Fatal message - application might crash
+11:55:38.175 [main] Main2.main [12] ERROR - Error message - something went wrong
+21:45:29.459 [main] Main2.main [11] FATAL - Fatal message - application might crash
+21:45:29.460 [main] Main2.main [12] ERROR - Error message - something went wrong

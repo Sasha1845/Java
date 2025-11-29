@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Mark Spencer</name>
+        <age>23</age>
+    </student>
+    <student>
+        <name>Emily Johnson</name>
+        <age>24</age>
+    </student>
+</students>

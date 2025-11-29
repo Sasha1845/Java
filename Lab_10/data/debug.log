@@ -1,0 +1,40 @@
+13:47:07.760 [main] Main2.main [10] INFO  - Application started
+13:47:07.763 [main] Main2.main [12] FATAL - Fatal message - application might crash
+13:47:07.764 [main] Main2.main [13] ERROR - Error message - something went wrong
+13:47:07.767 [main] Main2.main [14] WARN  - Warning message - be careful
+13:47:07.767 [main] Main2.main [15] INFO  - Info message - just FYI
+13:47:07.768 [main] Main2.main [16] DEBUG - Debug message - useful for debugging
+13:47:07.781 [main] Main2.main [21] DEBUG - Division result: 5
+13:47:07.781 [main] Main2.main [26] INFO  - Application finished
+13:57:06.438 [main] Main2.main [10] INFO  - Application started
+13:57:06.441 [main] Main2.main [12] FATAL - Fatal message - application might crash
+13:57:06.446 [main] Main2.main [13] ERROR - Error message - something went wrong
+13:57:06.446 [main] Main2.main [14] WARN  - Warning message - be careful
+13:57:06.446 [main] Main2.main [15] INFO  - Info message - just FYI
+13:57:06.447 [main] Main2.main [16] DEBUG - Debug message - useful for debugging
+13:57:06.459 [main] Main2.main [21] DEBUG - Division result: 5
+13:57:06.460 [main] Main2.main [26] INFO  - Application finished
+15:40:11.110 [main] Main2.main [10] INFO  - Application started
+15:40:11.117 [main] Main2.main [11] FATAL - Fatal message - application might crash
+15:40:11.119 [main] Main2.main [12] ERROR - Error message - something went wrong
+15:40:11.120 [main] Main2.main [13] WARN  - Warning message - be careful
+15:40:11.121 [main] Main2.main [14] INFO  - Info message - just FYI
+15:40:11.123 [main] Main2.main [15] DEBUG - Debug message - useful for debugging
+15:40:11.183 [main] Main2.main [20] DEBUG - Division result: 5
+15:40:11.184 [main] Main2.main [25] INFO  - Application finished
+11:55:38.172 [main] Main2.main [10] INFO  - Application started
+11:55:38.174 [main] Main2.main [11] FATAL - Fatal message - application might crash
+11:55:38.175 [main] Main2.main [12] ERROR - Error message - something went wrong
+11:55:38.176 [main] Main2.main [13] WARN  - Warning message - be careful
+11:55:38.176 [main] Main2.main [14] INFO  - Info message - just FYI
+11:55:38.177 [main] Main2.main [15] DEBUG - Debug message - useful for debugging
+11:55:38.187 [main] Main2.main [20] DEBUG - Division result: 5
+11:55:38.187 [main] Main2.main [25] INFO  - Application finished
+21:45:29.456 [main] Main2.main [10] INFO  - Application started
+21:45:29.459 [main] Main2.main [11] FATAL - Fatal message - application might crash
+21:45:29.460 [main] Main2.main [12] ERROR - Error message - something went wrong
+21:45:29.460 [main] Main2.main [13] WARN  - Warning message - be careful
+21:45:29.461 [main] Main2.main [14] INFO  - Info message - just FYI
+21:45:29.461 [main] Main2.main [15] DEBUG - Debug message - useful for debugging
+21:45:29.470 [main] Main2.main [20] DEBUG - Division result: 5
+21:45:29.470 [main] Main2.main [25] INFO  - Application finished
